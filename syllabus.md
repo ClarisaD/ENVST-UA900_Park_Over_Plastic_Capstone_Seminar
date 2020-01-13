@@ -50,8 +50,7 @@ analysis
 be a combination of exercises in class and guest speakers who are highly skilled in these
 mediums.
 
-* River cleanups: Park staff will lead two river cleanups with students, one as an introduction to
-the park and the other as a follow up for a specific site with high plastic contamination.
+* Shore cleanup: Park staff will lead a shore cleanup with students for hands-on experience with data collection and plastic pollution in the park.
 
 * Presentations and Feedback sessions with the Hudson River Park Trust. The first will be
 during the mid-term and the second for the final results of the project.
@@ -149,7 +148,7 @@ Students will conduct self assessments as well as be evaluated by the professor 
 * Attendance is mandatory and will be taken at the beginning of every class. Since there is so much technical, conceptual, science, and design information to absorb, regular attendance is essential.
 * Unexcused absences will affect your grade. Two absences are allowed; after that, your final, overall, numerical grade will drop by 5 percent \(1/2 a grade point \(e.g. A to an A-\)\) for each additional absence.
 * Be on Time. Tardiness will affect your grade. For every 15 minutes of tardiness, your final, numerical grade will drop by 0.625 percent
-* According to NYU policy, absences are only excused if the professor receives notificaiton from the Office of Student Affairs. (I do not accept requests for excusing absences without approval from the university and am not obligated to respond to emails about personal matters.)
+* According to NYU policy, absences are only excused if the professor receives notification from the Office of Student Affairs. (I do not accept requests for excusing absences without approval from the university and am not obligated to respond to emails about personal matters.)
 * Attendance is mandatory for the midterm and final presentations / critiques. Failure to attend these presentations, which will be held at the Hudson River Park Trust, will result in a 10% reduction of your overall grade for each instance.
 
 #### Your final grade will be based on a synthesis of quantitative & qualitative rubrics:
