@@ -18,47 +18,57 @@ Mondays • 5:00PM-7:30PM • Washington Square SILV 402 • 4 credit hrs
 
 ## Welcome to the capstone seminar Park Over Plastic!
 
-Students in this course will explore the challenges of the human impact of climate change by thinking and working through a real-life case study. Dar es Salaam in Tanzania is selected as a location of rapid urban change and more frequent flooding. Using background information provided by the course partner, Red Cross Red Crescent Climate Centre, students will study how the city has evolved, the current social and climate related stressors, and what needs may be present in communities that live there. 
+Park Over Plastic is an initiative of the Hudson River Park Trust among park staff, vendors and
+community members to reduce the plastic footprint and improve the health of the Hudson
+River. The primary way of doing this is through public education on the impacts of plastic in the
+Park’s Estuarine Sanctuary waters.
 
-The course will be studio based, creating a series of assignments and projects that explore questions like: How would residents receive communication of approaching storms? How could the city develop protection from floods? How might someone get food when the streets are uninhabitable? Questions explored through projects are open to student interest based on their investigations. 
+This project will assess the various ways plastic is contaminating Hudson River Park. From
+plastic bottles to microplastics, students will assist with data aggregation to understand where
+the park is being contaminated most, and with what types of plastic. Students will also do
+research into the policies around plastic production and distribution in New York City. In
+teams, students will then combine their research to develop materials for use in the park’s
+educational programming. These materials will be produced in the course of the project and
+take on media forms such as infographics/data visualizations, photography/video, or other
+visual means of communication for a public audience.
 
-The end result of the course is to gain a better understanding of macro and micro issues at hand when it comes to climate change solutions and the various people that need them. Students will come away with having explored the role integrated media and technology plays in addressing the issues of adapting to climate change. Similarities and differences between ideas for urban spaces in Dar es Salaam may also be compared to other cities, like New York City.  
+### Intended Client
+
+Hudson River Park Trust
+
+### Outcomes
+
+-Data analysis of plastic pollution in Hudson River Park
+-Presentation of analysis as a public resource
+-Communication and visual presentation skills, in addition to honing skills in data collection and
+analysis
+-Contribution to a growing body of knowledge on plastic pollution, particularly on the local level
+
+### Class Activities
+
+-Skill building: Intro to graphic design, videography, photography, data visualization. This will
+be a combination of exercises in class and guest speakers who are highly skilled in these
+mediums.
+
+-River cleanups: Park staff will lead two river cleanups with students, one as an introduction to
+the park and the other as a follow up for a specific site with high plastic contamination.
+
+-Presentations and Feedback sessions with the Hudson River Park Trust. The first will be
+during the mid-term and the second for the final results of the project.
+
+-Additional guest speakers from Riverkeeper may also provide additional information about
+pollution in NYC waterways.
 
 
-Prerequisite: None
-
-### PROGRAM GOALS
-
-The following Integrated Digital Media program goals are introduced and reinforced within this course. Students will:
-
-* develop conceptual thinking skills about designing within the constraints of climate change to generate ideas and content in order to solve problems or create opportunities.
-* develop a line of thought related to adapting to climate change through inquiry and iteration.
-* develop critical thinking skills that will allow them to analyze and position their work within cultural, historical, aesthetic, economic, and technological contexts.
-* develop collaboration skills to actively and effectively work in a team or group.
-
-
-### COURSE GOALS
-
-To get students to, all in the context of how design relates to the climate:
-
-* develop a rigorous, iterative process for looking, questioning, thinking, making, and communicating that challenges assumptions and preconceived ideas about how to communicate climate risk
-* use their imagination to create something entirely new & innovative OR to reinvent an old idea into something new to communicate climate risk
-* introduce students to the many research & design and science methodologies available to them
-* develop skills of description, research, analysis, visualization, design and critical thinking.
-* improve writing, documentation, and presentation skills
-* facilitate collaboration
-
-### LEARNING OUTCOMES
-
-By the end of this course students should be able to:
-
-* identify who is affected by climate change, in particular who's involved in flood risk communication
-* understand macro systemic issues of communicating risk and spot where they may be faulty
-* understand micro issues of developing tools to communicate climate risk
 
 ### COURSE STRUCTURE
 
-The course will be comprised of lectures, critiques, discussions, readings, screenings, exercises, projects, and a collaborative research paper.
+The course will be structured like a project based design studio, divided into the following
+phases:
+
+● Research (academic and in-practice)
+● Concept and development of media, based on iteration and prototyping
+● Final refinement of media and presentation  
 
 Critiques are the best way to articulate your ideas to others and get immediate feedback. The class analyzes and suggests ways to increase the impact of your project. Take notes when your work is being critiqued and do not edit the responses, whether you agree with them or not. Review your critique notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand what you are doing to make your project better. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project.
 
@@ -72,7 +82,7 @@ There will be discrete team and individual exercises and projects that require y
 
 **Phase 1: Discovery / Inspiration**
 
-* Research into climate change topics and the Dar es Salaam site
+* Research into plastic waste and Hudson River Park. A shore cleanup organized by the Hudson River Park Trust will provide hands-on experience with the park's plastic waste. Students will also work in groups directly with staff to learn about the park's organization and educational programming. (Keep in mind the park also offers internships after the Spring semester!)
 
 **Phase 2: Research / Ideation / Brainstorming**
 
@@ -84,6 +94,7 @@ There will be discrete team and individual exercises and projects that require y
 * Activity researching
 * Primary researching
 * Scholarly researching
+* Data Analysis
 * Brainstorming, gamestorming, ideation
 
 **Phase 3: Design / Sketching / Mapping**
@@ -110,7 +121,7 @@ There will be discrete team and individual exercises and projects that require y
 * Framing and positioning
 * Storytelling, engaging, communicating, selling
 
-Students will conduct self assessments as well as be evaluated by the professors during or after midterm and at the end of the semester. Any action without reflection is meaningless. Real learning only occurs as part of a reflective process. Reflection is studying your own practice as seriously as you study anything. It involves thinking about why, what, and how you create something.
+Students will conduct self assessments as well as be evaluated by the professor during or after midterm and at the end of the semester. Any action without reflection is meaningless. Real learning only occurs as part of a reflective process. Reflection is studying your own practice as seriously as you study anything. It involves thinking about why, what, and how you create something.
 
 ### STUDENT RESPONSIBILITIES
 
@@ -122,7 +133,7 @@ Students will conduct self assessments as well as be evaluated by the professors
 * Acquire and read all assigned readings before they are due
 * Action – do your absolute best
 * Strive for continuous improvement
-* Talk to one of us in person about issues and problems. \(if your email turns into a paragraph or two that means you should be talking to one of us in person, not emailing us.\)
+* Talk to the professor in person about issues and problems. \(if your email turns into a paragraph or two that means you should be talking to me\)
 * Have desire amounting to enthusiasm \(to learn, to explore\)
 * Have patience, persistence, and discipline 
 * Be creative
@@ -136,14 +147,14 @@ Students will conduct self assessments as well as be evaluated by the professors
 **Attendance**
 
 * Attendance is mandatory and will be taken at the beginning of every class. Since there is so much technical, conceptual, science, and design information to absorb, regular attendance is essential.
-* Unexcused absences will affect your grade. One absence is allowed; after that, your final, overall, numerical grade will drop by 5 percent \(1/2 a grade point \(e.g. A to an A-\)\) for each additional absence.
+* Unexcused absences will affect your grade. Two absences are allowed; after that, your final, overall, numerical grade will drop by 5 percent \(1/2 a grade point \(e.g. A to an A-\)\) for each additional absence.
 * Be on Time. Tardiness will affect your grade. For every 15 minutes of tardiness, your final, numerical grade will drop by 0.625 percent
-* Contact the professor IN ADVANCE if you will not be in class \(in person or via email\).
-* Attendance is mandatory for the midterm and final presentations / critiques.
+* According to NYU policy, absences are only excused if the professor receives notificaiton from the Office of Student Affairs. (I do not accept requests for excusing absences without approval from the university and am not obligated to respond to emails about personal matters.)
+* Attendance is mandatory for the midterm and final presentations / critiques. Failure to attend these presentations, which will be held at the Hudson River Park Trust, will result in a 10% reduction of your overall grade for each instance.
 
 #### Your final grade will be based on a synthesis of quantitative & qualitative rubrics:
 
-* Makeup assignments are only available when discussed with and approved by the instructor in advance of the due date.
+* Makeup assignments or extensions are only available when discussed with and approved by the instructor in advance of the due date, and have resulted from excused absences by the Office of Student Affairs.
 * Each student will be judged on the commitment, fearlessness, and continuous improvement that their work shows. Incomplete or unsatisfactory work will receive a failing grade.
 
 **Quantitative Grading Overview**
@@ -178,7 +189,7 @@ Performance and attendance of the student has been such that course requirements
 
 ### TECHNOLOGY USE IN THE CLASSROOM
 
-Laptop computers and other mobile devices are invaluable tools for artists, designers, and students when used responsibly. However, this technology can also be incredibly distracting, especially in the classroom. When in class, you may use your laptops and other devices for any activities pertaining to the course: taking notes, researching material relevant to our readings and discussions, doing VFS homework, making class presentations, etc. However, the following uses are unacceptable: checking email, instant messaging, texting, using social networking sites such as facebook, etc. Also, during class screenings, your laptops should not be used.
+Laptop computers and other mobile devices are invaluable tools when used responsibly. However, this technology can also be incredibly distracting, especially in the classroom. When in class, you may use your laptops and other devices for any activities pertaining to the course: taking notes, researching material relevant to our readings and discussions, doing VFS homework, making class presentations, etc. However, the following uses are unacceptable: checking email, instant messaging, texting, using social networking sites such as facebook, etc. Also, during class screenings, your laptops should not be used.
 
 ### ACADEMIC HONESTY
 
