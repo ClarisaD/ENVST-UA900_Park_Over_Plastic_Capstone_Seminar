@@ -38,25 +38,25 @@ Hudson River Park Trust
 
 ### Outcomes
 
--Data analysis of plastic pollution in Hudson River Park
--Presentation of analysis as a public resource
--Communication and visual presentation skills, in addition to honing skills in data collection and
+* Data analysis of plastic pollution in Hudson River Park
+* Presentation of analysis as a public resource
+* Communication and visual presentation skills, in addition to honing skills in data collection and
 analysis
--Contribution to a growing body of knowledge on plastic pollution, particularly on the local level
+* Contribution to a growing body of knowledge on plastic pollution, particularly on the local level
 
 ### Class Activities
 
--Skill building: Intro to graphic design, videography, photography, data visualization. This will
+* Skill building: Intro to graphic design, videography, photography, data visualization. This will
 be a combination of exercises in class and guest speakers who are highly skilled in these
 mediums.
 
--River cleanups: Park staff will lead two river cleanups with students, one as an introduction to
+* River cleanups: Park staff will lead two river cleanups with students, one as an introduction to
 the park and the other as a follow up for a specific site with high plastic contamination.
 
--Presentations and Feedback sessions with the Hudson River Park Trust. The first will be
+* Presentations and Feedback sessions with the Hudson River Park Trust. The first will be
 during the mid-term and the second for the final results of the project.
 
--Additional guest speakers from Riverkeeper may also provide additional information about
+* Additional guest speakers from Riverkeeper may also provide additional information about
 pollution in NYC waterways.
 
 
@@ -66,9 +66,9 @@ pollution in NYC waterways.
 The course will be structured like a project based design studio, divided into the following
 phases:
 
-● Research (academic and in-practice)
-● Concept and development of media, based on iteration and prototyping
-● Final refinement of media and presentation  
+* Research (academic and in-practice)
+* Concept and development of media, based on iteration and prototyping
+* Final refinement of media and presentation  
 
 Critiques are the best way to articulate your ideas to others and get immediate feedback. The class analyzes and suggests ways to increase the impact of your project. Take notes when your work is being critiqued and do not edit the responses, whether you agree with them or not. Review your critique notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand what you are doing to make your project better. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project.
 
