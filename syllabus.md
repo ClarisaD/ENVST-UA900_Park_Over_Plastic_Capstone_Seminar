@@ -9,7 +9,7 @@ Clarisa Diaz • clarisa.diaz@nyu.edu • Spring 2020
 Mondays • 5:00PM-7:30PM • Washington Square SILV 402 • 4 credit hrs
 ```
 
-#### Office hours by appointment
+#### Office hours by appointment, always feel free to email me with questions or to set up a meeting.
 
 #### Gitbook Repository: [https://clarisadiaz.gitbook.io/park-over-plastic-capstone-seminar-nyu/](https://clarisadiaz.gitbook.io/park-over-plastic-capstone-seminar-nyu/)
 
