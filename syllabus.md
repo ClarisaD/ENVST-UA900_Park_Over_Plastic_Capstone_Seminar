@@ -1,22 +1,22 @@
 # Syllabus
 
-![](NYU-Tandon.png)
+![](NYU-CAS.png)
 
-#### Integrated Digital Media • Technology, Culture & Society Department
+#### Environmental Studies Capstone Seminar • Park Over Plastic
 
 ```text
-Clarisa Diaz, Andrew Kruczkiewicz • clarisa.diaz@nyu.edu, ajk9@nyu.edu • Spring 2019
-Mondays & Wednesdays • 6:30PM-8:20PM • 2MTC MAGNET 820 • 3 credit hrs
+Clarisa Diaz • clarisa.diaz@nyu.edu • Spring 2020
+Mondays • 5:00PM-7:30PM • Washington Square SILV 402 • 4 credit hrs
 ```
 
-#### Office hours by appointment or directly after class.
+#### Office hours by appointment
 
-#### Gitbook Repository: [https://clarisadiaz.gitbook.io/dmuy4913e-sp19-diaz-kruczkiewicz-climate-design/](https://clarisadiaz.gitbook.io/dmuy4913e-sp19-diaz-kruczkiewicz-climate-design/)
+#### Gitbook Repository: [https://clarisadiaz.gitbook.io/park-over-plastic-capstone-seminar-nyu/](https://clarisadiaz.gitbook.io/park-over-plastic-capstone-seminar-nyu/)
 
-#### Course shared Google Drive folder, Climate & Design Spring 2019: [https://drive.google.com/drive/folders/1wLgz8ggWn7wY6KZRQ3PfXlUJh_45_mWf?usp=sharing](https://drive.google.com/drive/folders/1wLgz8ggWn7wY6KZRQ3PfXlUJh_45_mWf?usp=sharing)
+#### Course shared Google Drive folder, Park Over Plastic Capstone Seminar: [https://drive.google.com/drive/folders/1fNHWJn0fY5DGRYSUer-87Ys9Z586cMAY?usp=sharing](https://drive.google.com/drive/folders/1fNHWJn0fY5DGRYSUer-87Ys9Z586cMAY?usp=sharing)
 
 
-## Welcome to the Climate & Design Collaborative Studio!
+## Welcome to the capstone seminar Park Over Plastic!
 
 Students in this course will explore the challenges of the human impact of climate change by thinking and working through a real-life case study. Dar es Salaam in Tanzania is selected as a location of rapid urban change and more frequent flooding. Using background information provided by the course partner, Red Cross Red Crescent Climate Centre, students will study how the city has evolved, the current social and climate related stressors, and what needs may be present in communities that live there. 
 
