@@ -278,13 +278,13 @@ All due dates can be found in the calendar. This is just an overview and descrip
 
 #### Assignments
 
-* [What is Dar es Salaam Moodboard](assignments/What_is_Dar_es_Salaam_Moodboard.md)
-* [Weather Forecast Log](assignments/Weather_Forecast_Log.md)
-* [Translator Profile](assignments/Translator_Profile.md)
-* [Climate Spectrum](assignments/Climate_Spectrum.md)
-* [Spectrum Swap](assignments/Spectrum_Swap.md)
-* [Personal Climate Spectrum](assignments/Personal_Climate_Spectrum.md)
-* [Map Slam](assignments/Map_Slam.md)
+* [What is Plastic Pollution Moodboard](assignments/What_is_Dar_es_Salaam_Moodboard.md)
+* [Personal Plastic Consumption Photo and Written Log](assignments/Weather_Forecast_Log.md)
+* [Personal Plastic Consumption Visualization](assignments/Translator_Profile.md)
+* [How Many Ways Can A Number Be Visualized](assignments/Climate_Spectrum.md)
+* [Hudson River Pollution Analysis](assignments/Spectrum_Swap.md)
+* [Usability Testing For Communication](assignments/Personal_Climate_Spectrum.md)
+* [Service Design & System Map Slam](assignments/Map_Slam.md)
 * [Self Assessments](assignments/self-assessments.md) 
 
 ### [SCHEDULE OVERVIEW GRID](schedule/)
