@@ -149,7 +149,7 @@ Students will conduct self assessments as well as be evaluated by the professor 
 * Unexcused absences will affect your grade. Two absences are allowed; after that, your final, overall, numerical grade will drop by 5 percent \(1/2 a grade point \(e.g. A to an A-\)\) for each additional absence.
 * Be on Time. Tardiness will affect your grade. For every 15 minutes of tardiness, your final, numerical grade will drop by 0.625 percent
 * According to NYU policy, absences are only excused if the professor receives notification from the Office of Student Affairs. (I do not accept requests for excusing absences without approval from the university and am not obligated to respond to emails about personal matters.)
-* Attendance is mandatory for the midterm and final presentations / critiques. Failure to attend these presentations, which will be held at the Hudson River Park Trust, will result in a 10% reduction of your overall grade for each instance.
+* Attendance is mandatory for the midterm and final presentations / critiques, which will be held at the office of the Hudson River Park Trust. Because professionalism is so important when dealing with real-life clients, failure to attend these presentations will result in a 15% reduction of your overall grade for each instance.
 
 #### Your final grade will be based on a synthesis of quantitative & qualitative rubrics:
 
@@ -204,40 +204,64 @@ If you are student with a disability who is requesting accommodations, please co
 * Digital Camera \(You can also use a smart phone.\)
 * Digital Storage \(Thumb Drives or External Hard Drive, Laptop, etc\)
 
-### REQUIRED READINGS
+### REQUIRED READINGS & MEDIA
 
 _The following list of required readings may be incomplete and is subject to change. Supplemental readings may also be recommended during the course. Please see the course website for updates. You may also find readings in the course [Google Drive](https://drive.google.com/drive/folders/1wLgz8ggWn7wY6KZRQ3PfXlUJh_45_mWf?usp=sharing)_
 
-* [It’s Time To Ditch The Concept Of ‘100-Year Floods’ - FiveThirtyEight](https://fivethirtyeight.com/features/its-time-to-ditch-the-concept-of-100-year-floods/)
-* [How America Fails at Communicating Flood Risks - CityLab](https://www.citylab.com/environment/2018/10/how-america-fails-communicating-flood-risks/572620/)
-* [Climate Change as a Design Problem - The New York Times](https://www.nytimes.com/2017/06/16/insider/climate-change-as-a-design-problem-architecture-rotterdam.html)
-* [23 Fun Things to do in Dar Es Salaam, Tanzania](https://migrationology.com/things-to-do-in-dar-es-salaam-tanzania/)
-* [An insider's cultural guide to Dar Es Salaam: laid-back bustle and bongo flava](https://www.theguardian.com/cities/2015/dec/07/insider-cultural-guide-dar-es-salaam-bongo-flava)
-* [Anthony Bourdain: Tanzania](https://explorepartsunknown.com/tanzania/bourdains-field-notes-tanzania/)
-* [The Bright Future of Dar es Salaam, an Unlikely African Megacity](https://www.citylab.com/design/2015/02/the-bright-future-of-dar-es-salaam-an-unlikely-african-megacity/385801/)
-* [New master plan crucial for turning Dar into sustainable city](https://www.thecitizen.co.tz/News/New-master-plan-crucial-for-turning-Dar-into-sustainable-city/1840340-4091494-tbuneiz/index.html)
-* [The list of bans imposed by Tanzania’s populist](https://qz.com/africa/1185367/tanzanias-john-magufuli-imposes-bans-on-foreign-ships-pregnant-schoolgirls-and-public-rallies/)
-* [Humanitarian Open Street Map](https://www.hotosm.org/projects/dar_ramani_huria_dar_open_map)
-* [Vulnerability to Dar es Salaam City to Impacts of Climate Change](http://pubs.iied.org/pdfs/G02388.pdf)
-* [Building Just Responses to Flooding (in the context of Dar es Salaam)](https://www.ucl.ac.uk/bartlett/development/sites/bartlett/files/2017_flooding.pdf)
-* [Community Mapping for Flood Resilience – The case of Dar es Salaam, Tanzania](https://agile-online.org/conference_paper/cds/agile_2018/posters/155%20Fina_AGILE_2018_Msilanga.pdf)
-* [Dar Es Salaam: Participatory modelling of floods using community mapped OpenStreetMap data](https://www.deltares.nl/en/projects/participatory-modelling-of-floods-using-community-mapped-openstreetmap-data/)
-* [Tanzania Urban Resilience Program - World Bank](http://www.worldbank.org/en/programs/tanzania-urban-resilience-program#0)
-* [Mapping Flood Risk in Tanzania](https://www.worldbank.org/en/news/video/2018/02/22/mapping-flood-risk-in-tanzania)
-* [Challenges in coping with flooding in Dar Es Salaam](https://vimeo.com/113227108)
-* [Green infrastructure for flood-risk management in Dar es Salaam and Copenhagen: exploring the potential for transitions towards sustainable urban water management](https://iwaponline.com/wp/article-abstract/17/1/126/31496/Green-infrastructure-for-flood-risk-management-in)
-* [Flooding, flood risks and coping strategies in urban informal residential areas : the case of Keko Machungwa](https://journals.co.za/content/jemba/4/1/EJC125636)
-* [Using music and dance to improve health in a Tanzanian refugee camp](https://www.ifrc.org/en/news-and-media/news-stories/africa/tanzania/using-music-and-dance-to-improve-health-in-a-tanzanian-refugee-camp-72303/)
-* [Red Cross warns on use of its logo](https://www.thecitizen.co.tz/News/Red-Cross-warns-on-use-of-its-logo/1840340-4830088-hv94t4/index.html)
-* [Red Cross Emergency Plan of Action - Tanzania Floods 2018](https://reliefweb.int/sites/reliefweb.int/files/resources/MDRTZ021do.pdf)
+##Articles
+* [Park Over Plastic Sparks Community Conversations, July 1, 2019](https://hudsonriverpark.org/news-and-updates/park-over-plastic-sparks-community-conversations)
+* [Plastics Are Harming Our Waters. We're Over It, Aren't You?](https://hudsonriverpark.org/sustainability/park-over-plastic)
+* [Guess What: Your Plastics Aren't Really Being Recycled - Clarisa Diaz, Gothamist/WNYC](https://gothamist.com/news/how-your-plastics-arent-getting-recycled)
+* [A Plateful of Plastic - Reuters](https://graphics.reuters.com/ENVIRONMENT-PLASTIC/0100B4TF2MQ/index.html)
+* [How the Plastics Industry Is Fighting to Keep Polluting the World](https://theintercept.com/2019/07/20/plastics-industry-plastic-recycling/)
+* [Wasted Potential: The consequences of New York City's recycling failure](https://www.politico.com/states/new-york/albany/story/2020/01/05/wasted-potential-the-consequences-of-new-york-citys-recycling-failure-1243578)
+* [Virgin plastic pellets are the biggest pollution disaster you’ve never heard of](https://qz.com/1689529/nurdles-are-the-biggest-pollution-disaster-youve-never-heard-of/)
+* [The missing 99%: Why can't we find the vast majority of ocean plastic? - The Guardian](https://www.theguardian.com/us-news/2019/dec/31/ocean-plastic-we-cant-see)
+* [Why Black Plastic is Bad News](https://beyondplastics.org/article/why-black-plastic-is-bad-news/)
+* [Scaling back: Graduate invents plastic alternative from fish waste](https://www.theguardian.com/world/2019/sep/19/scaling-back-graduate-invents-plastic-alternative-from-fish-waste)
+* [NY lawmaker wants ban on plastic toiletry bottles in hotels](https://www.reviewjournal.com/news/politics-and-government/ny-lawmaker-wants-ban-on-plastic-toiletry-bottles-in-hotels-1851037/)
+* [How Fossil Fuel Companies Are Killing Plastic Recycling - HuffPost](https://www.huffpost.com/entry/plastic-recycling-oil-companies-landfill_n_5d8e4916e4b0e9e7604c832e?72q&guccounter=1&guce_referrer=aHR0cHM6Ly9iZXlvbmRwbGFzdGljcy5vcmcvbGVhcm4v&guce_referrer_sig=AQAAAEyRHhoeDmHRU-8hy4Oz22hWVonw_4naSjSd3Uh_wb5et05iHFd0aTgoo7IZu4TLXxhp5cWVk7Pal7bcvQIZ93Wwp-Ig5--gKVN0uHy8NkeEW4dCrD-SkGIX7lEgr0IqldRuckctWZ_8lJ3co4v3ZS-duSEVhkGCvvhl-hXK5nbu)
+* [Vicious Cycle: Delicate Wash Releases More Plastic Microfibres - The Guardian](https://www.theguardian.com/environment/2019/sep/26/vicious-cycle-delicate-wash-releases-more-plastic-microfibres)
+* [Where Does All the Plastic Go? - The New Yorker](https://www.newyorker.com/news/news-desk/where-does-all-the-plastic-go)
+* [Save Our Seas 2.0 bill moves in Congress but faces rough waters](https://www.plasticsnews.com/news/save-our-seas-20-bill-moves-congress-faces-rough-waters)
+* [Albany County legislature wants airport to ban plastic water bottles](https://beyondplastics.org/article/albany-county-legislature-wants-airport-to-ban-plastic-water-bottles/)
+* [Troy council unanimously passes Plastic Free Hudson River Act](https://www.troyrecord.com/news/local-news/troy-council-unanimously-passes-plastic-free-hudson-river-act/article_40b0c0b0-d0d2-11e9-99bc-cffefce4f73c.html)
+* [Get ready for the onslaught of "smart plastic incineration"](https://www.treehugger.com/plastic/get-ready-onslaught-smart-plastic-incineration.html)
+* ['Can't recycle our way out': Ex-EPA official picks apart the plastic problem at forum](https://www.berkshireeagle.com/stories/cant-recycle-our-way-out-ex-epa-officials-picks-apart-the-plastic-problem-at-forum,582568)
+* [What Grocery Stores Won’t Tell You About Plastic](https://www.huffpost.com/entry/grocery-stores-plastic-walmart_n_5d3f68f3e4b0d24cde046f4a)
+* [Dasani’s new water vending machine is BYOB (bring your own bottle)](https://www.fastcompany.com/90388913/dasanis-new-water-vending-machine-is-byob-bring-your-own-bottle)
+* [Cured in Place? An Underground Pipe Repair Raises Questions](https://undark.org/2019/04/22/cured-in-place-plastic-pipes-cipp/)
+* [Join the Reuse Revolution](https://beyondplastics.org/article/join-the-reuse-revolution/)
+* [Ask Your Grocery Store To Stope Selling Things Packaged In Single-Use Plastic](https://beyondplastics.org/article/ask-your-grocery-store-to-stop-selling-things-packaged-in-single-use-plastic/)
+* [New York’s Thick Plastic Bag Demands Vex Efforts to Reduce Waste](https://news.bloomberglaw.com/environment-and-energy/new-yorks-thick-plastic-bag-demands-vex-efforts-to-reduce-waste)
+* [Heartbreaking Images That Show The Impact of Plastic on Animals in the Oceans](https://www.newsweek.com/heartbreaking-images-plastic-pollution-ocean-1459494)
 
 
-### REQUIRED MEDIA
+##Videos
+* [The Plastic Problem - PBS News Documentary](https://www.youtube.com/watch?v=1RDc2opwg0I)
+* [The Story of Plastic](https://www.storyofplastic.org/watch)
+* [What's in a (Trump) Straw?](https://theintercept.com/2019/09/15/trump-straws-plastic/)
+* [Asia & North America’s Trash Trouble and the Real Story on Recycling](https://www.facebook.com/watch/?ref=external&v=2349881851756539)
 
-_The following list of required media may be incomplete and is subject to change. Supplemental media may also be recommended during the course. Please see the course website for updates._
-
-* [99% Invisible - Climate Series](https://99percentinvisible.org/?s=climate&post_type[]=episode&post_type[]=article&paged=) 
-
+##Studies
+* [Compostable Food Containers Could Release PFAS Into Environment - American Chemical Society](https://www.eurekalert.org/pub_releases/2019-05/acs-cfc052419.php#)
+* [Net Cost Impact of switching from disposable to reusable food ware items for dine-in - Clean Water Action Fact Sheet](https://beyondplastics.org/wp-content/uploads/2019/10/Reusables_Business_Savings_Case_Studies.pdf)
+* [These tea bags release billions of plastic particles into your brew, study shows](https://www.washingtonpost.com/climate-environment/2019/09/27/these-tea-bags-release-billions-plastic-particles-into-your-brew-study-shows/)
+* [Three-quarters of plastic products are toxic](https://www.fastcompany.com/90405360/three-quarters-of-plastic-products-are-toxic)
+* [Today’s Special: Grilled Salmon Laced With Plastic](https://www.motherjones.com/environment/2019/09/todays-special-grilled-salmon-laced-with-plastic-flesh/)
+* [Law alumna: More drinking fountains, fewer plastic bottles](https://law.tulane.edu/news/law-alumna-more-drinking-fountains-fewer-plastic-bottles)
+* [Marine plastic pollution hides a neurological toxicant in our food](https://phys.org/news/2019-09-marine-plastic-pollution-neurological-toxin.html)
+* [Young & Restless: BPA, Circadian Rhythms, and Hyperactivity](https://endocrinenews.endocrine.org/young-restless-bpa-circadian-rhythms-and-hyperactivity/)
+* [Eating Even One Piece of Plastic Has Health Consequences for Baby Seabirds](https://www.smithsonianmag.com/smart-news/eating-even-one-piece-plastic-has-health-consequences-seabird-chicks-180972809/)
+* [How to Eat Less Plastic](https://www.consumerreports.org/food/how-to-eat-less-plastic-microplastics-in-food-water/)
+* [Sequins are terrible for the environment. A greener (and sparklier) alternative is here](https://www.fastcompany.com/90387099/sequins-are-terrible-for-the-environment-a-greener-and-sparklier-alternative-is-here)
+* [The Scary New Evidence on BPA-Free Plastics](https://www.motherjones.com/environment/2014/03/tritan-certichem-eastman-bpa-free-plastic-safe/)
+* [These Popular Plastic Bottles May Be Messing With Your Hormones](https://www.motherjones.com/environment/2014/06/bpa-free-plastics-tritan-nalgene-dangerous/)
+* [Plastic & Health: The Hidden Costs of a Plastic Planet](https://beyondplastics.org/wp-content/uploads/2019/06/Plastic-and-Health-The-Hidden-Costs-of-a-Plastic-Planet-February-2019.pdf)
+* [Questions & Answers: Chemical Recycling](https://www.no-burn.org/wp-content/uploads/Questions-and-Answers_Chemical-Recycling.pdf)
+* [Plastic & Climate: Center for International Environmental Law](https://www.ciel.org/plasticandclimate/)
+* [White and wonderful? Microplastics prevail in snow from the Alps to the Arctic - AAAS](https://advances.sciencemag.org/content/5/8/eaax1157)
+* [Marine Microplastics - Woods Hold Oceanographic Institution](https://www.whoi.edu/know-your-ocean/ocean-topics/pollution/marine-microplastics/)
 
 ### [RECOMMENDED RESOURCES](recommended-resources.md)
 
