@@ -206,7 +206,7 @@ If you are student with a disability who is requesting accommodations, please co
 
 ### REQUIRED READINGS & MEDIA
 
-_The following list of required readings may be incomplete and is subject to change. Supplemental readings may also be recommended during the course. Please see the course website for updates. You may also find readings in the course [Google Drive](https://drive.google.com/drive/folders/1wLgz8ggWn7wY6KZRQ3PfXlUJh_45_mWf?usp=sharing)_
+_The following list of required readings may be incomplete and is subject to change. Supplemental readings may also be recommended during the course. Please see the course website for updates. You may also find readings in the course [Google Drive](https://drive.google.com/drive/folders/1fNHWJn0fY5DGRYSUer-87Ys9Z586cMAY?usp=sharing)_
 
 ##Articles
 * [Park Over Plastic Sparks Community Conversations, July 1, 2019](https://hudsonriverpark.org/news-and-updates/park-over-plastic-sparks-community-conversations)
@@ -269,7 +269,7 @@ See Appendix
 
 ### PROJECTS & ASSIGNMENTS
 
-All due dates can be found in the calendar. This is just an overview and description of all the projects for the course. Please name ALL files as firstnameinitiallastname\_d&c\_sp19\_assignmentname \(i.e. cdiaz\_d&c\_sp19\_assignmentname.pdf\)
+All due dates can be found in the calendar. This is just an overview and description of all the projects for the course. Please name ALL files as firstnameinitiallastname\_parkoverplastic\_sp20\_assignmentname \(i.e. cdiaz\_parkoverplastid\_sp20\_assignmentname.pdf\)
 
 #### Projects
 
