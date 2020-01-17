@@ -10,5 +10,5 @@ You will synthesis what you are noticing in your notebook, readings, writings, a
 
 There will be two self assessments for the course. One will be due at midterm and the other at the end of the semester. These reflective writings will require you to critically evaluate your process and execution in the class.
 
-**Each assessment should be emailed to Clarisa and Andrew as a pdf.**
+**Each assessment should be emailed to Clarisa as a pdf.**
 

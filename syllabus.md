@@ -278,16 +278,16 @@ All due dates can be found in the calendar. This is just an overview and descrip
 
 #### Assignments
 
-* [What is Plastic Pollution Moodboard](assignments/What_is_Dar_es_Salaam_Moodboard.md)
-* [Personal Plastic Consumption Photo and Written Log](assignments/Weather_Forecast_Log.md)
-* [Personal Plastic Consumption Visualization](assignments/Translator_Profile.md)
-* [How Many Ways Can A Number Be Visualized](assignments/Climate_Spectrum.md)
-* [Hudson River Pollution Analysis](assignments/Spectrum_Swap.md)
-* [Usability Testing For Communication](assignments/Personal_Climate_Spectrum.md)
-* [Service Design & System Map Slam](assignments/Map_Slam.md)
+* [What is Plastic Pollution Moodboard](assignments/What_is_Plastic_Pollution_Moodboard.md)
+* [Personal Plastic Consumption Photo and Written Log](assignments/Personal_Plastic_Consumption_Log.md)
+* [Personal Plastic Consumption Visualization](assignments/Personal_Plastic_Consumption_Visualization.md)
+* [How Many Ways Can A Number Be Visualized](assignments/How_Many_Ways_Can_A_Number_Be_Visualized.md)
+* [Hudson River Pollution Analysis](assignments/Hudson_River_Pollution_Analysis.md)
+* [Usability Testing For Communication](assignments/Usability_Testing_For_Communication.md)
+* [Service Design & System Service Design & System Map Slam](assignments/Map_Slam.md)
 * [Self Assessments](assignments/self-assessments.md) 
 
-### [SCHEDULE OVERVIEW GRID](schedule/)
+/*### [SCHEDULE OVERVIEW GRID](schedule/)*/
 
 See Appendix
 

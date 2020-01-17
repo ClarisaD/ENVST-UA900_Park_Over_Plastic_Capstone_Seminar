@@ -6,7 +6,7 @@
 
 ## Midterm
 
-Working individually, you will research, analyze, and evaluate climate change stakeholders and current systems in Dar es Salaam. You will then propose 3 ideas of what would be interesting for you to solve, based on your research. The final result is a series of user profiles, the connections between them and systems maps of how risk communication works in Dar es Salaam, along with the 3 ideas in visual form.
+Working individually, you will research, analyze, and evaluate stakeholders and cycles of the plastic problem. You will then propose 3 ideas to the Hudson River Park Trust on what would be interesting for you to solve or communicate. The midterm will take the form of a visual presentation.
 
 
 ### Annotated Bibliography

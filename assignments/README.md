@@ -4,12 +4,12 @@
 
 ## Assignments
 
-* [What is Dar es Salaam Moodboard](What_is_Dar_es_Salaam_Moodboard.md)
-* [Weather Forecast Log](Weather_Forecast_Log.md)
-* [Translator Profile](Translator_Profile.md)
-* [Climate Spectrum](Climate_Spectrum.md)
-* [Spectrum Swap](Spectrum_Swap.md)
-* [Personal Climate Spectrum](Personal_Climate_Spectrum.md)
-* [Map Slam](Map_Slam.md)
+* [What is Plastic Pollution Moodboard](What_is_Plastic_Pollution_Moodboard.md)
+* [Personal Plastic Consumption Photo and Written Log](Personal_Plastic_Consumption_Log.md)
+* [Personal Plastic Consumption Visualization](Personal_Plastic_Consumption_Visualization.md)
+* [How Many Ways Can A Number Be Visualized](ow_Many_Ways_Can_A_Number_Be_Visualized.md)
+* [Hudson River Pollution Analysis](Hudson_River_Pollution_Analysis.md)
+* [Usability Testing For Communication](assignments/Usability_Testing_For_Communication.md)
+* [Service Design & System Map Slam](Map_Slam.md)
 * [Self Assessments](self-assessments.md) 
 

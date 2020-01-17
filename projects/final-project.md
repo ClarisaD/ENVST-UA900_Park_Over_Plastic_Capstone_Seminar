@@ -6,12 +6,11 @@
 
 ## Final Project
 
-Working in groups of two, you will combine ideas, research, analyze, evaluate, and communicate the research & design for a proposal to adapt to flood risk in Dar es Salaam. The final result is a systems map of your proposal including stakeholders, and a tool or multiple tools that will execute the proposal's plan.
-
+Working in groups of two, you will combine ideas, research, analyze, evaluate, and communicate a designed product, set of visualizations or other media experience for Park Over Plastic. The final will also include user testing on how effecte your deliverable is, and a systems map on how your deliverable can be used by the Hudson River Park Trust.
 
 ### Annotated Bibliography
 
-You will write an annotated bibliography as a team. We recommend using google docs to collaboratively write. The bare minimum of sources is ten. You will be graded based on the thoroughness of your research.  You should have many different types of sources in your bibliography.  These sources should have an impact on the work you create.
+You will write an annotated bibliography as a team. I recommend using google docs to collaboratively write. The bare minimum of sources is ten. You will be graded based on the thoroughness of your research.  You should have many different types of sources in your bibliography.  These sources should have an impact on the work you create.
 
 Using [Purdue OWL Annotated Bibliography Guidelines](https://owl.english.purdue.edu/owl/resource/614/01/), summarize, assess, and reflect.
 

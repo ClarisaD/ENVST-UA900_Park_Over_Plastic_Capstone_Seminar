@@ -8,4 +8,4 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | **Feb 11** | **Feb 13** |
 | class | Reading Response DUE. Service Design: Micro Tools, Climate 101 |  Lecture Response DUE and posted on blog, Climate Decision Stakeholder Lecture   |
-| assignment| Write a response to the lecture on blog |  Continue Weather Forecast Log |
+| assignment| Write a response to the lecture on blog |  Continue Personal Plastic Consumption Photo and Written Log |
