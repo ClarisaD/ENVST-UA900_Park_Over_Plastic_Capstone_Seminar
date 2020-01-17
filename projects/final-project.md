@@ -1,12 +1,12 @@
 # Final Project
 
-### DMUY4913E Climate and Design Collaborative Studio
+### EVST-UA900 Park Over Plastic Capston Seminar
 
 ### Spring 2020 • Clarisa Diaz • Mondays • 5:00-7:30pm • Washington Square SILV 402
 
 ## Final Project
 
-Working in groups of two, you will combine ideas, research, analyze, evaluate, and communicate a designed product, set of visualizations or other media experience for Park Over Plastic. The final will also include user testing on how effecte your deliverable is, and a systems map on how your deliverable can be used by the Hudson River Park Trust.
+Working in groups of two, you will combine ideas, research, analyze, evaluate, and communicate a designed product, set of visualizations or other media experience for Park Over Plastic. The final will also include user testing on how effective your deliverable is, and a systems map on how your deliverable can be used by the Hudson River Park Trust.
 
 ### Annotated Bibliography
 

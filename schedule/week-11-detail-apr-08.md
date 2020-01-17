@@ -1,11 +1,12 @@
-# Week 11 Detail Apr 08
+# Week 11 Detail April 6
 
 ### Spring 2020 • Clarisa Diaz • Mondays • 5:00-7:30pm • Washington Square SILV 402
 
-## [Schedule:](./) Week 11
+## [Schedule:](./) Week 1
 
-| wk | Mondays \(due on date listed\) | Wednesdays \(due on date listed\) |
+| wk | Monday |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | **Apr 08** | **Apr 10** |
-| class | Guest Speaker - Janet Babin - PRI and NPR journalist on Greenland and rising sea levels. Working Session: Share Final Project Development Systems Map & Tool(s) Prototyping with instructors. |  Working Session: Share Final Project Development Systems Map & Tool(s) Prototyping with instructors|
-| assignment| Project progress  | Project progress  |
+| 1 | **April 6** |
+| class | Discuss readings. Share team ideas for final project in class. Receive feedback to begin first draft. Prototyping Lecture.| 
+| assignment| First draft of final project, post on blog.|  
+

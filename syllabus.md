@@ -232,7 +232,7 @@ _The following list of required readings may be incomplete and is subject to cha
 * [Dasani’s new water vending machine is BYOB (bring your own bottle)](https://www.fastcompany.com/90388913/dasanis-new-water-vending-machine-is-byob-bring-your-own-bottle)
 * [Cured in Place? An Underground Pipe Repair Raises Questions](https://undark.org/2019/04/22/cured-in-place-plastic-pipes-cipp/)
 * [Join the Reuse Revolution](https://beyondplastics.org/article/join-the-reuse-revolution/)
-* [Ask Your Grocery Store To Stope Selling Things Packaged In Single-Use Plastic](https://beyondplastics.org/article/ask-your-grocery-store-to-stop-selling-things-packaged-in-single-use-plastic/)
+* [Ask Your Grocery Store To Stop Selling Things Packaged In Single-Use Plastic](https://beyondplastics.org/article/ask-your-grocery-store-to-stop-selling-things-packaged-in-single-use-plastic/)
 * [New York’s Thick Plastic Bag Demands Vex Efforts to Reduce Waste](https://news.bloomberglaw.com/environment-and-energy/new-yorks-thick-plastic-bag-demands-vex-efforts-to-reduce-waste)
 * [Heartbreaking Images That Show The Impact of Plastic on Animals in the Oceans](https://www.newsweek.com/heartbreaking-images-plastic-pollution-ocean-1459494)
 
@@ -261,7 +261,7 @@ _The following list of required readings may be incomplete and is subject to cha
 * [Questions & Answers: Chemical Recycling](https://www.no-burn.org/wp-content/uploads/Questions-and-Answers_Chemical-Recycling.pdf)
 * [Plastic & Climate: Center for International Environmental Law](https://www.ciel.org/plasticandclimate/)
 * [White and wonderful? Microplastics prevail in snow from the Alps to the Arctic - AAAS](https://advances.sciencemag.org/content/5/8/eaax1157)
-* [Marine Microplastics - Woods Hold Oceanographic Institution](https://www.whoi.edu/know-your-ocean/ocean-topics/pollution/marine-microplastics/)
+* [Marine Microplastics - Woods Hole Oceanographic Institution](https://www.whoi.edu/know-your-ocean/ocean-topics/pollution/marine-microplastics/)
 
 ### [RECOMMENDED RESOURCES](recommended-resources.md)
 
