@@ -1,4 +1,4 @@
-# Week 2 Detail Feb 04
+# Week 2 Detail Feb 03
 
 ### Spring 2020 • Clarisa Diaz • Mondays • 5:00-7:30pm • Washington Square SILV 402
 

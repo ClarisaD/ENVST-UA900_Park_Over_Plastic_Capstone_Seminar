@@ -4,7 +4,7 @@
 
 ## [Schedule:](./) Week 1
 
-| wk | Mondays \(due on date listed\) | Wednesdays \(due on date listed\) |
+| wk | Mondays \(due on date listed\) |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | **Jan 27** |
 | class | Course and Student Introductions Overview of Course, What's a moodboard and visual concepting tools.| 
