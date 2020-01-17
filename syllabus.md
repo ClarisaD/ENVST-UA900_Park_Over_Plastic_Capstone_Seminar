@@ -284,7 +284,7 @@ All due dates can be found in the calendar. This is just an overview and descrip
 * [How Many Ways Can A Number Be Visualized](assignments/How_Many_Ways_Can_A_Number_Be_Visualized.md)
 * [Hudson River Pollution Analysis](assignments/Hudson_River_Pollution_Analysis.md)
 * [Usability Testing For Communication](assignments/Usability_Testing_For_Communication.md)
-* [Service Design & System Service Design & System Map Slam](assignments/Map_Slam.md)
+* [Service Design & System Map Slam](assignments/Map_Slam.md)
 * [Self Assessments](assignments/self-assessments.md) 
 
 ### [SCHEDULE OVERVIEW GRID](schedule/)
