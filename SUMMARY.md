@@ -19,7 +19,7 @@
   * [Week 13 Detail Apr 20](schedule/week-13-detail-apr-20.md)
   * [Week 14 Detail Apr 27](schedule/week-14-detail-apr-27.md)
   * [Week 15 Detail May 04](schedule/week-15-detail-may-04.md)
-  * [Week 16 Detail May 11](schedule/week-16-detail-may-13.md)
+  * [Week 16 Detail May 11](schedule/week-16-detail-may-11.md)
 * [Assignments](assignments/README.md)
   * [What is Plastic Pollution Moodboard](assignments/What_is_Plastic_Pollution_Moodboard.md)
   * [Personal Plastic Consumption Photo and Written Log](assignments/Personal_Plastic_Consumption_Log.md)
