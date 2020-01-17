@@ -16,7 +16,7 @@ Any work that you will turn in, should always contain the following:
 
 
 
-We will check your class blog for assignments, looking at when and what you post. Student blogs for this class are listed below:
+I will check your class blog for assignments, looking at when and what you post. Student blogs for this class are listed below:
 
 
 Student Blogs:

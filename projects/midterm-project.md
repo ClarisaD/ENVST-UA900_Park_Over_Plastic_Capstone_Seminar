@@ -1,6 +1,6 @@
 # Midterm Project
 
-### DMUY4913E Climate and Design Collaborative Studio
+### EVST-UA900 Park Over Plastic Capston Seminar
 
 ### Spring 2020 • Clarisa Diaz • Mondays • 5:00-7:30pm • Washington Square SILV 402
 

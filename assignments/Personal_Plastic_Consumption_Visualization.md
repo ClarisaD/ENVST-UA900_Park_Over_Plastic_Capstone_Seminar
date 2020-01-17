@@ -1,4 +1,4 @@
-# Translator_Profile
+# Personal Plastic Consumption Visualization
 
 ### Spring 2020 • Clarisa Diaz • Mondays • 5:00-7:30pm • Washington Square SILV 402
 

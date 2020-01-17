@@ -287,7 +287,7 @@ All due dates can be found in the calendar. This is just an overview and descrip
 * [Service Design & System Service Design & System Map Slam](assignments/Map_Slam.md)
 * [Self Assessments](assignments/self-assessments.md) 
 
-/*### [SCHEDULE OVERVIEW GRID](schedule/)*/
+### [SCHEDULE OVERVIEW GRID](schedule/)
 
 See Appendix
 
