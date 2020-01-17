@@ -1,5 +1,5 @@
 ### DM-UY 4913E Special Topics in Digital Media - Climate and Design Collaborative Studio
-### Spring 2019 • Clarisa Diaz, Andrew Kruczkiewicz • Mondays and Wednesdays • 6:30-8:20pm • 2MTC MAGNET 820
+### Spring 2020 • Clarisa Diaz • Mondays • 5:00-7:30pm • Washington Square SILV 402
 ---
 
 # END OF SEMESTER DELIVERABLES
@@ -21,6 +21,6 @@ with the following files
 </ul>
 
 ## Letter to Next Cohort
-*Include in Google Drive folder, I&P Fall 2018*
+*Include in Google Drive folder, Park Over Plastic*
 
-Write a letter to the next class or create a 1-2 minute video, giving them advice on how to reach their learning goals and get value out of this course.
+Write a letter to future students, giving them advice on how to reach their learning goals and get value out of this course.
