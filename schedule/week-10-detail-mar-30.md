@@ -8,5 +8,5 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | **March 30** |
 | class | Discuss readings. Partner with classmate to begin final project.  Combine research, ideas and brainstorm what you can create together and why.| 
-| assignment| Post ideas you and your partner want to accomplish for the final project. Post sketches for 3 ideas from your combined work. Read and write a response: Compostable Food Containers Could Release PFAS Into Environment - American Chemical Society](https://www.eurekalert.org/pub_releases/2019-05/acs-cfc052419.php#) and [Net Cost Impact of switching from disposable to reusable food ware items for dine-in - Clean Water Action Fact Sheet](https://beyondplastics.org/wp-content/uploads/2019/10/Reusables_Business_Savings_Case_Studies.pdf) Post on blog.|  
+| assignment| Post ideas you and your partner want to accomplish for the final project. Post sketches for 3 ideas from your combined work. Read and write a response: [Compostable Food Containers Could Release PFAS Into Environment - American Chemical Society](https://www.eurekalert.org/pub_releases/2019-05/acs-cfc052419.php#) and [Net Cost Impact of switching from disposable to reusable food ware items for dine-in - Clean Water Action Fact Sheet](https://beyondplastics.org/wp-content/uploads/2019/10/Reusables_Business_Savings_Case_Studies.pdf) Post on blog.|  
 
