@@ -149,7 +149,7 @@ Students will conduct self assessments as well as be evaluated by the professor 
 * Unexcused absences will affect your grade. Two absences are allowed; after that, your final, overall, numerical grade will drop by 5 percent \(1/2 a grade point \(e.g. A to an A-\)\) for each additional absence.
 * Be on Time. Tardiness will affect your grade. For every 15 minutes of tardiness, your final, numerical grade will drop by 0.625 percent
 * According to NYU policy, absences are only excused if the professor receives notification from the Office of Student Affairs. (I do not accept requests for excusing absences without approval from the university and am not obligated to respond to emails about personal matters.)
-* Attendance is mandatory for the midterm and final presentations / critiques, which will be held at the office of the Hudson River Park Trust. Because professionalism is so important when dealing with real-life clients, failure to attend these presentations will result in a 15% reduction of your overall grade for each instance.
+* Attendance is mandatory for the midterm and final presentations / critiques, which will be held at the office of the Hudson River Park Trust. Because professionalism is so important when working with real-life clients, failure to attend these presentations will result in a 10% reduction of your overall grade for each instance.
 
 #### Your final grade will be based on a synthesis of quantitative & qualitative rubrics:
 
