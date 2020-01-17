@@ -35,9 +35,3 @@
 * [Assignment Guidelines](assignment-guidelines.md)
 * [Recommended Resources](recommended-resources.md)
 * [End of Semester Deliverables](end-of-semester-deliverables.md)
-
-
-
-* [Usability Testing For Communication](assignments/Usability_Testing_For_Communication.md)
-* [Service Design & System Service Design & System Map Slam](assignments/Map_Slam.md)
-* [Self Assessments](assignments/self-assessments.md) 
