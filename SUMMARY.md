@@ -4,7 +4,7 @@
  -->
 * [Syllabus](syllabus.md)
 * [Schedule](schedule/README.md)
-  * [Week 1 Detail Jan 27](schedule/week-1-detail-jan-28.md)
+  * [Week 1 Detail Jan 27](schedule/week-1-detail-jan-27.md)
   * [Week 2 Detail Feb 03](schedule/week-2-detail-feb-04.md)
   * [Week 3 Detail Feb 10](schedule/week-3-detail-feb-11.md)
   * [Week 4 Detail Feb 17](schedule/week-4-detail-feb-18.md)
