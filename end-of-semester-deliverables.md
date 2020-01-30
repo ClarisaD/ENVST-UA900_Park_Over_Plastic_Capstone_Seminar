@@ -9,7 +9,7 @@
 3. Final Project & Annotated Bibliography, Self-Assessment, Native Files
 6. Letter to Next Cohort 
 
-### In the course Google Drive folder, Climate & Design Spring 2020, find the subfolder with your name. Fill your folder
+### In the course Google Drive folder, Park Over Plastic, find the subfolder with your name. Fill your folder
 
 with the following files 
 

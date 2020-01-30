@@ -10,7 +10,7 @@ Any work that you will turn in, should always contain the following:
 
 * Date
 * Your first and last name
-* Climate & Design
+* Park Over Plastic Capstone Seminar
 * Spring 2020
 * Diaz
 

@@ -1,4 +1,4 @@
-### DM-UY 4913E Special Topics in Digital Media - Climate and Design Collaborative Studio
+### ENVST-UA900 Park Over Plastic Capstone Seminar
 ### Spring 2020 • Clarisa Diaz • Mondays • 5:00-7:30pm • Washington Square SILV 402
 ---
 
@@ -11,7 +11,7 @@
 <li>Letter to Next Cohort</li>
 </ol>
  
-##In the course Google Drive folder, Climate & Design 2019, find the subfolder with your name. Fill your folder 
+##In the course Google Drive folder, Park Over Plastic, find the subfolder with your name. Fill your folder 
 
 with the following files 
 <ul>

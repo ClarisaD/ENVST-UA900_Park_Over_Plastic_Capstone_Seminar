@@ -4,4 +4,4 @@
 
 ## How Many Ways Can A Number Be Visualized 
 
-Data Visualization Exercise from class exploring representation and cognition with numbers.
+Data Visualization Exercise in class exploring representation and cognition with numbers.
