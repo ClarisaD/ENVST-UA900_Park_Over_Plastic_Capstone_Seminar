@@ -7,6 +7,6 @@
 | wk | Monday |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | **March 02** |
-| class | Discussion of readings. Discuss data analysis of Hudson River Park pollution. How can this information be used to create tools?  Exercise: How many ways can a number be visualized. How to Sketch Lecture. Service Design and Systems Mapping Lecture. Service Design & Systems Map Slam. | 
-| assignment| Post your outputs from in class exercises, How Many Ways Can A Number Be Visualized and Map Slam on your blog. Concept sketch ideas for how data analysis can be transferred to a product or service for Hudson River Park Trust. Create service/systems maps for 3 ideas. Post on blog. |  
+| class | Hudson River Park Cleanup. Meet at classroom, walk to Hudson River Park Trust to meet staff and walk through park, do hands-on cleanup. Wear warm clothes and durable shoes! | 
+| assignment|  Continue developing your ideas on how information or data analysis can be transferred to a product or service for Hudson River Park Trust. Create service/systems maps for 3 ideas. Post on blog. |  
 
