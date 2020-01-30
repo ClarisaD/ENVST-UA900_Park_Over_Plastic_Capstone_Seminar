@@ -242,6 +242,8 @@ _The following list of required readings may be incomplete and is subject to cha
 * [The Story of Plastic](https://www.storyofplastic.org/watch)
 * [What's in a (Trump) Straw?](https://theintercept.com/2019/09/15/trump-straws-plastic/)
 * [Asia & North America’s Trash Trouble and the Real Story on Recycling](https://www.facebook.com/watch/?ref=external&v=2349881851756539)
+* [Is Your Plastic Actually Being Recycled?](https://www.youtube.com/watch?v=zVBkjMbF4Z4)
+
 
 ##Studies
 * [Compostable Food Containers Could Release PFAS Into Environment - American Chemical Society](https://www.eurekalert.org/pub_releases/2019-05/acs-cfc052419.php#)
