@@ -20,3 +20,34 @@ Using [Purdue OWL Annotated Bibliography Guidelines](https://owl.english.purdue.
 You can access NYU’s central library here: [http://library.nyu.edu/](http://library.nyu.edu/)
 
 You can access NYU Tandon’s Bern Dibner Library here: [http://library.poly.edu/](http://library.poly.edu/)
+
+## Examples of Audiences
+
+* School field trips
+* Residents in nearby boat houses
+* Staff resources and tools
+* Dog park users
+* Business partners and vendors
+* Anglers who fish in the river
+* General public and community groups
+
+
+## Examples of Types of Projects
+
+* Signage system
+* Set of data visualizations or infographics
+* Training materials
+* Digitization of Sewer in a Suitcase educational tool
+* PSA campaign on plastic reduction and/or reuse of non-plastic materials
+
+
+
+
+
+
+
+
+
+
+
+
