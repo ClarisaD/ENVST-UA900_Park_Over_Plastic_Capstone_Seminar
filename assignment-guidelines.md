@@ -21,4 +21,16 @@ I will check your class blog for assignments, looking at when and what you post.
 
 Student Blogs:
 <br>
-<a href="link">Student Name</a>
+<a href="https://maddieweikel.tumblr.com/">Maddie Weikel</a>
+<a href="https://parkoverplastic-cl.tumblr.com/">Carly LeMoine</a>
+<a href="https://medium.com/@nl1599/c3980dfbcb12">Nanzhe Liu</a>
+<a href="https://thecleanerwrasse.tumblr.com/">Lilly Walsingham</a>
+<a href="https://escapstoneblog2020.tumblr.com/">Abigail Melissen</a>
+<a href="https://cty233.tumblr.com/">Claire Yin</a>
+<a href="https://parkyourgrassovermyplasticass.tumblr.com/">Nile M. Johnson</a>
+
+
+
+
+
+
