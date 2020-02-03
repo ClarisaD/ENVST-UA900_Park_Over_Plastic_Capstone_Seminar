@@ -28,6 +28,8 @@ Student Blogs:
 <a href="https://escapstoneblog2020.tumblr.com/">Abigail Melissen</a>
 <a href="https://cty233.tumblr.com/">Claire Yin</a>
 <a href="https://parkyourgrassovermyplasticass.tumblr.com/">Nile M. Johnson</a>
+<a href="https://gemmapetriniparkoverplastic.tumblr.com/">Gemma Petrini</a>
+<a href="">Gabby Torres</a>
 
 
 
