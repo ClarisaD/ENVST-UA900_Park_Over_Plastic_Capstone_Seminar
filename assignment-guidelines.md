@@ -21,15 +21,15 @@ I will check your class blog for assignments, looking at when and what you post.
 
 Student Blogs:
 <br>
-<a href="https://maddieweikel.tumblr.com/">Maddie Weikel</a>
-<a href="https://parkoverplastic-cl.tumblr.com/">Carly LeMoine</a>
-<a href="https://medium.com/@nl1599/c3980dfbcb12">Nanzhe Liu</a>
-<a href="https://thecleanerwrasse.tumblr.com/">Lilly Walsingham</a>
-<a href="https://escapstoneblog2020.tumblr.com/">Abigail Melissen</a>
-<a href="https://cty233.tumblr.com/">Claire Yin</a>
-<a href="https://parkyourgrassovermyplasticass.tumblr.com/">Nile M. Johnson</a>
-<a href="https://gemmapetriniparkoverplastic.tumblr.com/">Gemma Petrini</a>
-<a href="">Gabby Torres</a>
+<a href="https://maddieweikel.tumblr.com/">Maddie Weikel</a><br>
+<a href="https://parkoverplastic-cl.tumblr.com/">Carly LeMoine</a><br>
+<a href="https://medium.com/@nl1599/c3980dfbcb12">Nanzhe Liu</a><br>
+<a href="https://thecleanerwrasse.tumblr.com/">Lilly Walsingham</a><br>
+<a href="https://escapstoneblog2020.tumblr.com/">Abigail Melissen</a><br>
+<a href="https://cty233.tumblr.com/">Claire Yin</a><br>
+<a href="https://parkyourgrassovermyplasticass.tumblr.com/">Nile M. Johnson</a><br>
+<a href="https://gemmapetriniparkoverplastic.tumblr.com/">Gemma Petrini</a><br>
+<a href="">Gabby Torres</a><br>
 
 
 
