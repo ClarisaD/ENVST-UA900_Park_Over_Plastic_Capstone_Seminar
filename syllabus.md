@@ -246,6 +246,7 @@ _The following list of required readings may be incomplete and is subject to cha
 
 
 ##Studies
+* [Estuary Lab, River Research - Hudson River Park Trust](https://hudsonriverpark.org/Estuary-Lab/River-Research)
 * [Compostable Food Containers Could Release PFAS Into Environment - American Chemical Society](https://www.eurekalert.org/pub_releases/2019-05/acs-cfc052419.php#)
 * [Net Cost Impact of switching from disposable to reusable food ware items for dine-in - Clean Water Action Fact Sheet](https://beyondplastics.org/wp-content/uploads/2019/10/Reusables_Business_Savings_Case_Studies.pdf)
 * [These tea bags release billions of plastic particles into your brew, study shows](https://www.washingtonpost.com/climate-environment/2019/09/27/these-tea-bags-release-billions-plastic-particles-into-your-brew-study-shows/)
