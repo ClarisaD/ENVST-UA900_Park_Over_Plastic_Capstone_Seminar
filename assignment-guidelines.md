@@ -29,7 +29,7 @@ Student Blogs:
 <a href="https://cty233.tumblr.com/">Claire Yin</a><br>
 <a href="https://parkyourgrassovermyplasticass.tumblr.com/">Nile M. Johnson</a><br>
 <a href="https://gemmapetriniparkoverplastic.tumblr.com/">Gemma Petrini</a><br>
-<a href="https://extraplasticplease.tumblr.com/">Gabby Torres</a><br>
+<a href="https://plastic-problem-capstone.tumblr.com/">Gabby Torres</a><br>
 
 
 
