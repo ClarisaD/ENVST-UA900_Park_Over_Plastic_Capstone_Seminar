@@ -23,7 +23,7 @@ Student Blogs:
 <br>
 <a href="https://maddieweikel.tumblr.com/">Maddie Weikel</a><br>
 <a href="https://parkoverplastic-cl.tumblr.com/">Carly LeMoine</a><br>
-<a href="https://medium.com/@nl1599/c3980dfbcb12">Nanzhe Liu</a><br>
+<a href="https://medium.com/@nl1599">Nanzhe Liu</a><br>
 <a href="https://thecleanerwrasse.tumblr.com/">Lilly Walsingham</a><br>
 <a href="https://escapstoneblog2020.tumblr.com/">Abigail Melissen</a><br>
 <a href="https://cty233.tumblr.com/">Claire Yin</a><br>
