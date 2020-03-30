@@ -7,6 +7,6 @@
 | wk | Monday |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | **April 20** |
-| class | Meet at classroom, walk to Hudson River Park Trust. Present progress on final project to Hudson River Park Trust. Receive feedback for revisions.| 
+| class | Present progress on final project to Hudson River Park Trust. Receive feedback for revisions.| 
 | assignment| Revise final project for another iteration, usability testing, post on blog.|  
 

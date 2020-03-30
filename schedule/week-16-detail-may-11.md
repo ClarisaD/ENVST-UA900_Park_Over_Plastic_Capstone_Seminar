@@ -7,6 +7,6 @@
 | wk | Monday |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | **May 11** |
-| class | Final project & annotated bibliography DUE. Meet at classroom, walk to Hudson River Park Trust.  Final presentation of projects to Hudson River Park Trust.| 
+| class | NYU CAS Capstone Presentation. Final project & annotated bibliography DUE. Final presentation of projects to Hudson River Park Trust.| 
   
 

@@ -7,6 +7,6 @@
 | wk | Monday |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | **April 6** |
-| class | Discuss readings. Share team ideas for final project in class. Receive feedback to begin first draft. Prototyping Lecture.| 
-| assignment| First draft of final project, post on blog.|  
+| class | Develop final project, receive feedback.| 
+| assignment| Post on blog.|  
 
