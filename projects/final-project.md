@@ -6,7 +6,7 @@
 
 ## Final Project
 
-Working in groups of two, you will combine ideas, research, analyze, evaluate, and communicate a designed product, set of visualizations or other media experience for Park Over Plastic. The final will also include user testing on how effective your deliverable is, and a systems map on how your deliverable can be used by the Hudson River Park Trust.
+Continue research, analyze, evaluate, and communicate a designed product, set of visualizations or other media experience for Park Over Plastic. 
 
 ### Annotated Bibliography
 
