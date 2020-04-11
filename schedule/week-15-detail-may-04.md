@@ -7,6 +7,6 @@
 | wk | Monday |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | **May 04** |
-| class | Share revisions and final polish of project.  Receive feedback.| 
-| assignment| Polish final project, post on blog.|  
+| class | Final project & annotated bibliography DUE. 2 minute capstone recording DUE in drive for Clarisa to compile. Final presentation of projects to Hudson River Park Trust.| 
+| assignment| Prepare for CAS Q&A with faculty.|  
 

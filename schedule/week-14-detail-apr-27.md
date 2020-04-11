@@ -8,5 +8,5 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | **April 27** |
 | class | Share revisions and more finalized project in class.  Receive feedback. | 
-| assignment| Revise project based on feedback, post on blog.|  
+| assignment| Finalize project based on feedback, post on blog. Make the 2-minute screen recording of your project and upload to the class drive.|  
 

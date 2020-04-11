@@ -20,6 +20,11 @@ You can access NYU’s central library here: [http://library.nyu.edu/](http://li
 
 You can access NYU Tandon’s Bern Dibner Library here: [http://library.poly.edu/](http://library.poly.edu/)
 
+### CAS Capstone Presentation Recording
+
+Make a two-minute screen recording explaining what your project is and why you made it. Show your final work in the screen recording. Upload the video to the class Google drive by May 4. Clarisa will then compile all the recordings into a class presentation for the CAS capstone presentation May 11, where students will be present to answer questions.
+
+
 ## Examples of Audiences
 
 * School field trips

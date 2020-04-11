@@ -7,6 +7,6 @@
 | wk | Monday |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | **May 11** |
-| class | NYU CAS Capstone Presentation. Final project & annotated bibliography DUE. Final presentation of projects to Hudson River Park Trust.| 
+| class | NYU CAS Capstone Presentation. Show pre-recorded presentations and do live Q & A with CAS faculty.| 
   
 
